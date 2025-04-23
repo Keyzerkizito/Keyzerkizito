@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuizitoJimoroce 
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, HTML , CSS, JavaScript 
 - 😄 Pronouns: kag,keyzer, quiqui
 - ⚡ Fun fact: None
 
